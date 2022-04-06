@@ -1,10 +1,10 @@
-# [![spydermaxi header](https://raw.githubusercontent.com/spydermaxi/spydermaxi/assets/graphic_source/adrianloo_banner_dark.png)](#)
+# [![spydermaxi header](https://raw.githubusercontent.com/spydermaxi/spydermaxi/blob/main/assets/graphic_source/adrianloo_banner_dark.png)](#)
 
 <p align='center'>
-<a href="https://twitter.com/spydermaxi"><img height="30" src="https://github.com/spydermaxi/spydermaxi/assets/social_icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/spydermaxi"><img height="30" src="https://github.com/spydermaxi/spydermaxi/assets/social_icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/adrian-loo-001a05116/"><img height="30" src="https://github.com/spydermaxi/spydermaxi/assets/social_icons/linkedin.png?raw=true"></a>
-<a href="#"><img height="30" src="https://github.com/spydermaxi/spydermaxi/assets/social_icons/youtube.png?raw=true"></a>
+<a href="https://twitter.com/spydermaxi"><img height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/spydermaxi"><img height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adrian-loo-001a05116/"><img height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/linkedin.png?raw=true"></a>
+<a href="#"><img height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/youtube.png?raw=true"></a>
 </p>
 
 ### Hey there 👋
