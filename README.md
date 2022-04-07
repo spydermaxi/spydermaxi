@@ -17,7 +17,7 @@ I'm currently working on [cookiecutter-tkinterapp](https://github.com/spydermaxi
 
 -----
 
-Official Projects in ASML:
+Official Projects:
 
 - HMI Proactive Monitoring (ProMon)
 - Uptime Converter
