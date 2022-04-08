@@ -9,7 +9,7 @@
 
 ### Hey there 👋
 
-My name is Adrian. Spydermaxi is a web handle I used when I started playing [Soul Calibur 2](https://en.wikipedia.org/wiki/Soulcalibur_II) in 2004. Spyder is the nickname; Maxi is [this character](https://soulcalibur.fandom.com/wiki/Maxi).
+My name is Adrian. Spydermaxi is a web handle I used when I started playing [Soul Calibur 2](https://en.wikipedia.org/wiki/Soulcalibur_II) in 2004. Spyder is the nickname I used in the gaming committee; Maxi is [this guy](https://soulcalibur.fandom.com/wiki/Maxi).
 
 I create applications mainly about python, automation, and data visualization. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
 
