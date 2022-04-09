@@ -11,10 +11,6 @@
 
 My name is Adrian, and I'm a Technical Support Engineer for Electron Beam Inspection Machines. I work with data and create applications mainly about python, automation, and data visualization. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
 
-### Why SpyderMaxi?
-
-Spydermaxi is a web handle I used when I started playing Soul Calibur 2 in 2004. Spyder is the nickname; Maxi is [this character](https://soulcalibur.fandom.com/wiki/Maxi).
-
 ### Projects I'm working on:
 
 1. [cookiecutter-tkinterapp](https://github.com/spydermaxi/cookiecutter-tkinterapp)
@@ -37,5 +33,8 @@ Spydermaxi is a web handle I used when I started playing Soul Calibur 2 in 2004.
 
    This is going to be a collection of my learnings professionally and personally. I will link the blog once its ready.
 
-
 -----
+
+### Why SpyderMaxi?
+
+Spydermaxi is a web handle I used when I started playing Soul Calibur 2 in 2004. Spyder is the nickname; Maxi is [this character](https://soulcalibur.fandom.com/wiki/Maxi).
