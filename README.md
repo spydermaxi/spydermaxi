@@ -9,7 +9,7 @@
 
 My name is Adrian, and I'm a Support Engineer with more than 10 years of experience in customer-facing roles, specializing in Electron Beam Inspection machines. My expertise involves developing experimental designs for troubleshooting uncommon issues and using data to accelerate hypothesis generation.
 
-I create applications mainly about python, automation, and data visualization. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
+I create applications mainly about **python**, **automation**, and **data visualization**. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
 
 -----
 
