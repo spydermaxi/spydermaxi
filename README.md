@@ -2,8 +2,8 @@
 
 <p align='center'>
 <a href="https://twitter.com/spydermaxi"><img alt="Twitter" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/spydermaxi"><img alt="Instagram" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/adrian-loo-spydermaxi/"><img alt="LinkedIn" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 ### Hey there 👋
 
