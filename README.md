@@ -11,10 +11,8 @@ My name is Adrian, and I'm a Support Engineer with more than 10 years of experie
 
 I create applications mainly about **python**, **automation**, and **data visualization**. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
 
-[//] # (-----I'm learning to write regularly, most of which you will find on my personal website [spydermaxi.com](https://spydermaxi.com))
+<!-- -----
 
------
+### Personal Blog
 
-### Why SpyderMaxi?
-
-Spydermaxi was a web handle I used during my first encounter with the internet. Spyder was the nickname already taken; Maxi is [this character](https://soulcalibur.fandom.com/wiki/Maxi). Combining both makes a unique handle. :wink:
+I'm learning to write regularly, most of which you will find on my personal website [spydermaxi.com](https://spydermaxi.com) -->
