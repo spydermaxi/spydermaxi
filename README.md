@@ -11,11 +11,11 @@ My name is Adrian, and I'm a Support Engineer with more than 10 years of experie
 
 I create applications mainly about **python**, **automation**, and **data visualization**. I have a passion for designing software applications to optimize processes, automate workflows, and improve operational efficiency.
 
------
+[//] # (-----
 
 ### Personal Blog
 
-I'm learning to write regularly, most of which you will find on my personal website [spydermaxi.com](https://spydermaxi.com)
+I'm learning to write regularly, most of which you will find on my personal website [spydermaxi.com](https://spydermaxi.com))
 
 -----
 
