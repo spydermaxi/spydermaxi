@@ -1,4 +1,4 @@
-# [![Spydermaxi Header](https://github.com/spydermaxi/spydermaxi/blob/main/assets/graphic_source/adrianloo_banner_dark.png)](#)
+# [![Spydermaxi Header](https://github.com/spydermaxi/spydermaxi/blob/main/assets/graphic_source/adrianloo_banner_dark_new.png)](#)
 
 <p align='center'>
 <a href="https://twitter.com/spydermaxi"><img alt="Twitter" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
