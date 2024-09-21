@@ -1,7 +1,7 @@
 # [![Spydermaxi Header](https://github.com/spydermaxi/spydermaxi/blob/main/assets/graphic_source/adrianloo_banner_dark_new.png)](#)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/adrian-loo-spydermaxi/"><img alt="LinkedIn" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adrian-loo1981/"><img alt="LinkedIn" height="30" src="https://github.com/spydermaxi/spydermaxi/blob/main/assets/social_icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 # Hey there! 👋
